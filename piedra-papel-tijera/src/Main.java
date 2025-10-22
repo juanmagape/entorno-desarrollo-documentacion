@@ -1,3 +1,9 @@
+/*
+JUAN MANUEL GALÁN PÉREZ
+1ro DAM
+Digitech FP
+ */
+
 import java.util.Scanner;
 
 public class Main {
