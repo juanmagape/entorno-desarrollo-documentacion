@@ -5,6 +5,16 @@ public class Main {
     public static void main(String[] args) {
         Scanner print = new Scanner(System.in);
 
+        // Prints para comenzar el juego
+
+        System.out.println("Piedra, Papel o tijera");
+        System.out.println("Las jugadas son: ");
+        System.out.println("1: Piedra");
+        System.out.println("2: Papel");
+        System.out.println("3: Tijera");
+        System.out.println("Introduce el número de tu jugada");
+
+
         // Creamos la variable con scanner, para saber lo que va a jugar el usuario contra la maquina
         int numeroDeJugador = print.nextInt();
         // Creamos la variable de la "maquina", haciendo un numero random del 1 al 3
