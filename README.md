@@ -13,3 +13,5 @@ Jugador 2: Papel
 Ganador: Jugador 2
 ```
 <h3>El programa te dirá si ganas, pierdes o empatas</h3>
+
+<h4>Juan Manuel Galán Pérez</h4>
